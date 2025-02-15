@@ -18,4 +18,4 @@ This project is a simple banking system implemented using Python and Tkinter. It
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/banking-system.git
+   git clone https://github.com/your-username/simple-banking-system.git
