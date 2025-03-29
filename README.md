@@ -12,7 +12,7 @@ This project is a simple banking system implemented using Python and Tkinter. It
 ## Requirements
 
 - Python 3.x
-- Tkinter (included with standard Python installation)
+- Tkinter 
 
 ## Installation
 
